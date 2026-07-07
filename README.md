@@ -21,6 +21,7 @@ This project analyzes an e-commerce sales dataset using Python, Pandas, and Matp
 
 ## Project Structure
 
+```
 week4-data-visualization-project/
 │
 ├── data/
@@ -38,6 +39,7 @@ week4-data-visualization-project/
 ├── analysis.ipynb
 ├── requirements.txt
 └── README.md
+```
 
 ## Features
 
@@ -52,10 +54,16 @@ week4-data-visualization-project/
 ## How to Run
 
 1. Install the required libraries
+
+```
 pip install -r requirements.txt
+```
 
 2. Run the project
+
+```
 python main.py
+```
 
 ## Output
 
